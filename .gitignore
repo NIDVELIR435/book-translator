@@ -1,0 +1,6 @@
+result/
+.env
+.idea
+dist
+node_modules
+.git
